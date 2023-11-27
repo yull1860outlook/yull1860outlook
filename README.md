@@ -1,13 +1,19 @@
-###This repository is to sharing useful cmdline / tools when doing troubleshooting  related topics
+# This repository is to sharing useful cmdline / tools when doing troubleshooting  related topics
 
-traffic test
+## traffic test
+   
     Curl
+   
     tcpping 
+   
     psping
 
-DNS resolution
+## DNS resolution
+   
     nameresolver <target> <server>
+   
     nslookup  <target> <server>
+   
     https://digwebinterface.com/
 
 
